@@ -15,8 +15,8 @@ sidebar:
     email: sonhipkmhd.com
     phone: 0968 390 201
     website: sonhipkmhd.com #do not add http://
-    linkedin: ''
-    github: 's'
+    linkedin: 'Tran Son'
+    github: ''
     gitlab:
     bitbucket:
     twitter: ''
@@ -27,12 +27,11 @@ sidebar:
       - idiom: Vietnamese
         level: Native
 
-      - idiom: Vietnamese
-        level: Student
+      - idiom: English
+        level: A little
 
-      - idiom: Spanish
-        level: Professional
-        
+      - idiom: 
+        level:         
     interests:
       - item: play football
         link:
@@ -44,7 +43,7 @@ sidebar:
         link:
 
 career-profile:
-    title: Career Profile
+    title: 
     summary: |
       
 
@@ -55,62 +54,35 @@ education:
       details: |
         
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: 
+      university:
+      time: 
       details: |
         
 experiences:
-    - role: Lead Developer
+    - role: A student
       time: 2015 - Present
       company: Not yet!
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Tôi vẫn còn là một sinh viên, tôi đang tích lũy kinh nghiệm để có thể trở thành một lập trình viên tốt trong tương lai!
 
-          - Bullet point
-          - Bullet point 
-
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: 
+      time: 
+      company: 
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        
+          
 
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role:
+      time: 
+      company: 
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        
 
 projects:
-    title: Projects
+    title: 
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-
+      
     assignments:
       - title: Velocity
         link: "#hook"
@@ -133,24 +105,21 @@ projects:
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: Publications
+    title: 
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-
+      
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: 
+        authors: 
+        conference: 
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "Genetic Programming III: 
+        authors: 
+        conference: 
 
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: 
+        authors: 
+        conference: 
 
 skills:
     title: Skills &amp; Proficiency
