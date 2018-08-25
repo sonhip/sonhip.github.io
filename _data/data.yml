@@ -16,7 +16,7 @@ sidebar:
     phone: 0968 390 201
     website: sonhipkmhd.com #do not add http://
     linkedin: ''
-    github: ''
+    github: 's'
     gitlab:
     bitbucket:
     twitter: ''
@@ -37,10 +37,10 @@ sidebar:
       - item: play football
         link:
 
-      - item: Snowboarding
+      - item: listen to music
         link:
 
-      - item: Cooking
+      - item: travelling
         link:
 
 career-profile:
